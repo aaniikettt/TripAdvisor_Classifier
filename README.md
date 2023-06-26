@@ -16,7 +16,7 @@ There are two notebooks in this repository, namely -
 2. Text columns were transformed using PorterStemmer, LancasterStemmer and WordNetLemmatize from nltk library.
 3. Words were tokenized using CountVectorize from sklearn library
 4. Data was slpit in 25% test and 75% train subsets.
-5. Multinomial Naive Bayes, Random Trees, Extra Trees and Bagging with Decision Tree models where used.
+5. Multinomial Naive Bayes, Random Trees, Extra Trees and Bagging with Decision Tree models were used.
 
 ## Results
 1. The Random Forest Cassifier had a 91% accuracy in train set and 59% accuracy in test and 59% cross validation after hyperparameter tuning.
