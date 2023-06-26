@@ -1,6 +1,6 @@
-# Project 1:
+# Project 1: TripAdvisor_Classifier
 
-## TripAdvisor-Classifier - Overview
+## Overview
 As a traveller, all of us go through travel websites to check through the hotels, cafes, restaurants and other places for reviews, in the quest to get the ultimate experience possible. Here, I have created a classification model to predict review rating and performed topic modelling on reviews.
 
 
